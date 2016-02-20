@@ -2,7 +2,7 @@
 
 /*Author: Antanik Mitra
   File: app.js
-  Website: http://comp1073-assign1.azurewebsites.net/
+  Website: http://assignment2-comp1073.azurewebsites.net/
 */
 
 "use strict";
